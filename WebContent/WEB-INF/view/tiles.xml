@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+<definition name= "customer.notice" template="WEB-INF/view/customer/Inc/layout.jsp">
+	<attribute name = "header" value = "/WEB-INF/view/Inc/header.jsp"/>
+</definition>>
